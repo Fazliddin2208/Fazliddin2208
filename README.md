@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fazliddin</h1>
-<h3 align="center">I am front end developer with 3.5 years of experience. I use React and NextJs for building web apps, but sometimes I use VueJs too. I am interested in Web3. I have backend knowledge (experience) with Node, Express and NestJs.</h3>
+<h3 align="center">I am front end developer with 4 years of experience. I use React and NextJs for building web apps, but sometimes I use VueJs too. I am interested in Web3. I have backend knowledge (experience) with Node, Express and NestJs.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazliddin2208" alt="fazliddin2208" /></a> </p>
 
